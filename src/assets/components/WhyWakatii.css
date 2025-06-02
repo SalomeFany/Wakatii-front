@@ -1,0 +1,14 @@
+/* WhyWakatii.css */
+.why-wakatii {
+  background-color: #f9f9f9; /* clair et doux */
+  color: #333;
+}
+
+.why-wakatii h2 {
+  color: #2c3e50; /* couleur plus foncée que le texte normal */
+}
+
+.why-wakatii p.lead {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
